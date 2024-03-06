@@ -1,0 +1,109 @@
+.navclock{
+    width: 3em;
+}
+
+
+#NavTextFontColor6{
+    color:white;
+}
+
+
+
+#cardSection {
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+#dividerArticle{
+    margin-top: 2%;
+    border-top: 2px solid #bbb;
+    border-radius: 5px;
+}
+
+#dotNavsBackground{
+    background-color: #bbb;
+ 
+}
+
+#dotNavsSlider{
+    margin:auto;
+    width: 50%;
+    height: 40%;
+}
+
+
+
+#footerCustom{
+    color: white;
+}
+
+#fontCardslidesWithDotnavs1{
+    font-size: small;
+    font-weight: 600;
+    line-height: 0.8rem;
+}
+
+#fontCardslidesWithDotnavs2{
+    font-size: small;
+    font-weight: 600;
+    line-height: 0.8rem;
+}
+
+#fontCardslidesWithDotnavs3{
+font-size: small;
+    font-weight: 600;
+    line-height: 0.8rem;
+}
+#fontCardslidesWithDotnavs4{
+    font-size: small;
+    font-weight: 600;
+    line-height: 0.8rem;
+}
+
+#fontCardslidesWithDotnavs5{
+font-size: small;
+    font-weight: 600;
+    line-height: 0.8rem;
+}
+
+
+.headerDotSlide{
+    margin-bottom: 5rem;
+    color:slategray;   
+    letter-spacing: -2px;
+
+}
+
+#loadingBarHeader{
+    margin-bottom: 1rem;
+    color:slategray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#services{
+    color: white;
+}
+
+.servicesHeader{
+    color: white;
+    letter-spacing: -1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#fineWatchRoom{
+    line-height: 1.4rem;
+}
+
+
+
+
+
+#commentAuthor3{
+    margin-top: 3rem;;
+}
+
+#commentAuthor2{
+    margin-top: 3rem;
+}
